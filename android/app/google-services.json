@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "456324476100",
-    "project_id": "pokego-c1524",
-    "storage_bucket": "pokego-c1524.firebasestorage.app"
+    "project_number": "508541505304",
+    "project_id": "pokebasego-73273",
+    "storage_bucket": "pokebasego-73273.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:456324476100:android:f020867fc99261361a2d91",
+        "mobilesdk_app_id": "1:508541505304:android:0b4d83b5409db1c860186d",
         "android_client_info": {
           "package_name": "com.pokeexplorer"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBzWvAW3NH3j2jxFHRj7pGD_5H3D3zPiVA"
+          "current_key": "AIzaSyBoABCt2IObeK7SHx5uF6TViJ-DYZUv738"
         }
       ],
       "services": {
