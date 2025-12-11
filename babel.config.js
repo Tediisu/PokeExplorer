@@ -6,6 +6,7 @@ module.exports = {
       {
         root: ['./'],
         alias: {
+          '@': './src',               // <-- add this
           '@assets': './assets',
           '@screens': './src/Screens',
           '@types': './src/TypeScripts',
