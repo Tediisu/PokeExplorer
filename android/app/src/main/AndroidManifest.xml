@@ -44,7 +44,7 @@
         <!-- ADD THIS BLOCK -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value=""/>
+            android:value="AIzaSyDotd9AFM36Q-Mtz3JSB57nI2b2ccgYYqI"/>
         
         <activity
             android:name=".MainActivity"
